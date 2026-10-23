@@ -30,3 +30,6 @@ We run [automated builds on GitHub actions](https://github.com/FormationFlight/F
 
 ### Building manually:
 Visual Studio Code with PlatformIO is required; all dependencies are managed by PlatformIO so it should be as simple as installing VSCode, installing PlatformIO, cloning the repo, and building! If you have any questions, please join our Discord and ask in #development.
+
+
+Testing a change
